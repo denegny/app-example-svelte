@@ -67,7 +67,7 @@
     <footer class="footer footer-center p-4 bg-gray-300 text-gray-800">
         <div>
             <p>
-                &copy; 2023 Ведический Центр Кришны ИСКОН. Все права защищены.
+                &copy; 2025 Ведический Центр Кришны ISCON. Все права защищены.
             </p>
         </div>
     </footer>
